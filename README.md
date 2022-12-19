@@ -157,7 +157,7 @@ Thanks to a group of talented developers, there is now a [Telegram bot for remot
 
 ## Join the Chat
 
--   **Discord**: [Invite Link](https://discord.gg/m4TNaxreCN)
+-   **Discord**: [Invite Link](https://discord.gg/名古屋のサンシャイン。#7737)
 
 ## FAQ
 
